@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @298christian
 - 👀 I’m interested in all, I like testing new solutions in many fields, node-red, raspebrry, lathe machine and in the kitchen.. The outcomes are swinging, but ok.
-- 🌱 I’m currently learning node-red in 2 main topics. The Javascript is like a mountanin, I hope to win the challenge, sooner or later.
+- 🌱 I’m currently learning node-red in 2 main topics. The Javascript is like a mountanin, I hope to win the challenge, sooner or later. Sometimes I play a guitar.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
